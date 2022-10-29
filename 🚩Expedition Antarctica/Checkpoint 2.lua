@@ -11,4 +11,4 @@ local tween = tween_s:Create(plr.Character["HumanoidRootPart"],info,{CFrame=cfra
 end)
    if not tween then return err end
 end
-tp(6024.55126953125, 168.2463836669922, -18.747386932373047); -- Change x,y,z to the coordinates you got
+tp(6024.55126953125, 168.2463836669922, -18.747386932373047); -- Change x,y,z to the coordinates you got.
